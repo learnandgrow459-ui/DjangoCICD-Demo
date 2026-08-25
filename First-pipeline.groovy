@@ -6,7 +6,7 @@ stages
     {
      steps
      {
-        sh "mkdir -p dev"
+        sh "mkdir -p development"
     }
     }
 }
